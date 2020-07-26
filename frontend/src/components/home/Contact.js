@@ -1,5 +1,5 @@
 import React from 'react'
-export const Home = ()=> (
+export const Contact = ()=> (
             <div>
                 <h2>Hola desde Home</h2>
                 <p>
